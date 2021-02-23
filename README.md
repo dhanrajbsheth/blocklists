@@ -11,3 +11,4 @@ blocklists contains various block list which are country specific or category sp
 This list was compiled from personal query tracing and from multiple sources. Credit is given to:
 
 https://github.com/jmdugan/blocklists/tree/master/corporations
+https://github.com/JamieFarrelly/Popular-Site-Subdomains
